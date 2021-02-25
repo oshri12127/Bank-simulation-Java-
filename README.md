@@ -1,5 +1,5 @@
 # Bank-simulation-Java- 2018
-java-Bank simulation with Threads.
+java-Bank simulation with Threads
 
 UML:
 
